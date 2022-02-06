@@ -1,0 +1,32 @@
+@charset "Shift_JIS";
+
+body{
+  background-color: cornsilk;
+}
+
+.profile{
+  overflow: auto;
+}
+
+.my-image{
+  float:left;
+  margin-left: 5px;
+}
+
+.profile p{
+  margin-top: 0px;
+}
+
+.job-list{
+  width: auto;
+}
+
+th{
+  background-color: cadetblue;
+  width: 200px;
+}
+
+li{
+  font-weight: bold;
+}
+

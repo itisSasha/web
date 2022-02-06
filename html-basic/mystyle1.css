@@ -1,0 +1,21 @@
+@charset "Shift_JIS";
+body{
+  background-color:cornsilk;
+}
+
+.image{
+  margin-bottom: 16px;
+  overflow: auto;
+}
+
+.large-photo{
+  max-width: 250px;
+  margin-right: 20px;
+  float:none;
+}
+
+.caption{
+  font-size: 15px;
+  margin:auto;
+  
+}

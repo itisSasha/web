@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+.lead{
+  font-size: 40px;
+  color:azure;
+}
+
+#title{
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
+
+/*グローバルメニュー*/
+.global-nav{
+  font-size:20px;
+  padding: 0px 15px;
+  background-color:goldenrod;
+}
+
+.nav-item{
+  display: inline-block;
+  color: antiquewhite;
+  padding:13px 15px;
+}
+
+/*キャッチフレーズ*/
+.phrase{
+  padding-bottom: 80px;
+  font-size: 40px;
+  color:salmon;
+}
